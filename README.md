@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is LiveKit's fork of the dormant `typed-emitter` library, which fixes issues with newer
+> ECMAScript targets. It is licensed under the original MIT license, but support will not be
+> provided and pull requests will be closed. Use at your own risk.
+
 # Typed-Emitter
 
 [![NPM Version](https://img.shields.io/npm/v/typed-emitter.svg)](https://www.npmjs.com/package/typed-emitter)
